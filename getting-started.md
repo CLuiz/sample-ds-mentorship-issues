@@ -28,6 +28,7 @@
      * [Data Elixer](https://dataelixir.com/)
      * [Oreilly Data](https://cdn.oreillystatic.com/oreilly/email/share/nl-data-20190814-share.html)
      * [Data Science Weekly](https://www.datascienceweekly.org/)
-   * Find five job decriptions for roles you'd love to have today. Link them in the issue you create for this task. 
+   * Find five job descriptions for roles you'd love to have today. Link them in the issue you create for this task. 
      * [Built In](https://builtin.com/jobs/remote/data-analytics/entry-level/mid-level/not-specified/senior?ni=2) and
      * [LinkedIn](https://www.linkedin.com/jobs/) are good resources for finding roles.
+   * Bookmark [The Missing Semester of Computer Science](https://missing.csail.mit.edu/) and identify which videos may by helpful for you
